@@ -1,4 +1,4 @@
-# ANALYSE-EN-COMPOSANTES-PRINCIPALES.
+# ANALYSE EN COMPOSANTES PRINCIPALES.
 methode ACP avec presentation graghique en 3D et en 2D par plusieurs bibliothques<br />
 Jfreechart 2d: https://www.jfree.org/jfreechart/ <br />
 Orson chart 3d : https://www.javadoc.io/doc/org.jfree/org.jfree.chart3d/latest/org.jfree.chart3d/module-summary.html.<br />
